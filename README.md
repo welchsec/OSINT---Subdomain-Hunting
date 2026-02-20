@@ -8,7 +8,6 @@ Use At Own Risk - this was built using an idea of finding subdomains utillizing 
          '|  ||
           _\_):,_
 
-==========
 How to run:
 PowerShell -ExecutionPolicy Bypass -File .\subdomain_lookup.ps1
 Enter domain to look up (e.g. example.com): tesla.com
